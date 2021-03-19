@@ -1,5 +1,5 @@
 # task-tracker-app
-Task tracker application using React. Server side is also available in code repo (JSON mock server).
+Task tracker application using React. Server side is also available in code repo (JSON mock server). Please don't clone or download it directly, follow below steps
 
 Follow below steps to make it working in your system.
 
