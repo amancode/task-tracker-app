@@ -15,7 +15,9 @@ Run below commands in terminal one by one:
       cd task-tracker-app
    
 Step 3 - This project using Font Awesome react icons, Routing, JSON server so there are some dependencies. You can install these dependencies one by one using below commands.
+      
       npm install react-icons
+      
       npm i react-router-dom
     
       npm i json-server - After installing of JSON Server, open package.json file and inside scripts put this line - "server": "json-server --watch db.json --port 5000". It will prepare your configurable DB file having name db.json and run your server at port 5000.
