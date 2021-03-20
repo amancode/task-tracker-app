@@ -38,4 +38,15 @@ Step 7 - Run your dev server using below command.
       
 Step 8 - Are you excited to see your awesome React Application, open your favourite web browser and type http://localhost:3000/
 
+    Below are the application screenshots-
+    
+![image](https://user-images.githubusercontent.com/33694458/111880983-6ece0680-89d4-11eb-8335-d19d3c93b5ed.png)
+
+![image](https://user-images.githubusercontent.com/33694458/111881063-e0a65000-89d4-11eb-9eda-8fcd32913fd2.png)
+
+If your JSON Server is not running then you may encounter an alert message (like this - Server Down, Sorry for inconvenience.. Please try again after sometime). And your Add Task button will disabled. Refer below snap for the same.
+
+![image](https://user-images.githubusercontent.com/33694458/111881354-1ac42180-89d6-11eb-8f5c-cf7a09553792.png)
+
+
                       Hurrah! Congratulations :)
