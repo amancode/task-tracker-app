@@ -9,7 +9,7 @@ const Footer = () => {
         <footer>
             <Link to = '/' ><FaHome style = {{inlineSize : '20px', width : '4em' }} /></Link>
             <Link to = 'about' ><FaInfoCircle style = {{inlineSize : '20px' }} /></Link>
-            <a href = "https://github.com/" target = "blank"><FaGithub style = {{inlineSize : '20px', width : '4em' }} /></a>
+            <a href = "https://github.com/amancode/task-tracker-app" target = "blank"><FaGithub style = {{inlineSize : '20px', width : '4em' }} /></a>
         </footer>
     )
 }
